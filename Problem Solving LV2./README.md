@@ -124,6 +124,16 @@ While the core concepts remain the same as LV1, this level also emphasizes more 
 
 ---
 
+## 🚀 Mini Projects  
+
+01: [Stone-Paper-Scissor](01-stone-paper-scissor.cpp) — Basic implementation of the classic game.  
+02: [Stone-Paper-Scissor (Optimized)](01-stone-paper-scissor-optimized.cpp) — Refactored version with cleaner logic and reduced redundancy.  
+
+03: [Math Game](02-math-game.cpp) — A simple math quiz game for practicing arithmetic.  
+04: [Math Game (Optimized)](02-math-game-optimized.cpp) — Improved version with cleaner structure and reusability.  
+
+---
+
 ## 📞 Contact & Social
 - 📧 **Email**: [Mahmoud Yousry](mailto:mahmoudeltorkyservice@gmail.com)  
 - 💼 **LinkedIn**: [‏Mahmoud Yousry‏](https://www.linkedin.com/in/mahmoud-yousry-711385264/)  
