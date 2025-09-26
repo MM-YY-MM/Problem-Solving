@@ -8,6 +8,21 @@
 
 ---
 
+## 📖 About This Repository  
+
+A **comprehensive collection of algorithmic problem solutions in C++**, neatly organized by difficulty levels (**Level 1, Level 2, Level 3, ...**).  
+
+This repository serves as a documentation of my learning journey, with a clear focus on:  
+- Strengthening **problem-solving skills**  
+- Developing **logical thinking** and improving **analytical approaches**  
+- Enhancing the ability to **solve problems in better and more efficient ways**  
+- Building a solid foundation in **data structures & algorithms**  
+- Applying concepts through **practical coding exercises**  
+
+Each level introduces new challenges, expands logical depth, and progressively improves problem-solving ability. 🚀  
+
+---
+
 ## 🔹 Levels Overview
 
 - **LV1 (Foundations):**  
