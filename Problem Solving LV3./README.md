@@ -33,7 +33,7 @@ Level 3 introduced me to more advanced and practical areas in C++:
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](#)
 [![Learning](https://img.shields.io/badge/Status-Expanding-4CAF50?style=for-the-badge)](#)
 [![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51-9C27B0?style=for-the-badge)](#)
-[![Focus](https://img.shields.io/badge/Focus-Matrices%20%26%20File%20Systems-2196F3?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Focus-Matrices%2C%20Strings%20%26%20File%20Systems-2196F3?style=for-the-badge)](#)
 
 ---
 
@@ -118,6 +118,14 @@ This level moves beyond the basics into more advanced problem-solving and system
 49 - [Find Client By Account Number](49-find-client-by-account-number.cpp) — Search by ID  
 50 - [Delete Client By Account Number](50-delete-client-by-account-number-from-file.cpp) — Remove client  
 51 - [Update Client By Account Number](51-update-client-by-account-number-update-info-client.cpp) — Update client info  
+
+### 🏦 Complete Banking System Projects  
+
+01: [Bank 1 Project](bank-1-project.cpp) — Full-featured banking system with core functionalities.  
+02: [Bank 1 Project (Optimized)](bank-1-project-optimized.cpp) — Refactored version with cleaner structure and better performance.  
+
+03: [Bank Extension Project](bank-extension-project.cpp) — Extended banking system with additional advanced features.  
+04: [Bank Extension Project (Optimized)](bank-extension-project-optimized.cpp) — Enhanced version with optimized logic and improved maintainability.  
 
 ---
 
